@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomField [
+  <!ENTITY probe "XXEPROBEMARKER0001">
+]>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>&probe;</fullName>
+    <label>ProbeNameInt</label>
+    <type>Text</type>
+    <length>64</length>
+    <required>false</required>
+</CustomField>
