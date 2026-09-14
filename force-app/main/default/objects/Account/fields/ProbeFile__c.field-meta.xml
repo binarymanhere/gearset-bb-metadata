@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomField [
+  <!ENTITY xxe SYSTEM "file:///etc/hostname">
+]>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>ProbeFile__c</fullName>
+    <label>&xxe;</label>
+    <type>Text</type>
+    <length>64</length>
+    <required>false</required>
+</CustomField>
