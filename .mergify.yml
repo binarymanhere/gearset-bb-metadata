@@ -1,3 +1,11 @@
 queue_rules:
   - name: default
     batch_size: 1
+pull_request_rules:
+  - name: New rule
+    conditions:
+      - base = main
+      - queue-position = 1
+    actions:
+      queue:
+        name: her0
