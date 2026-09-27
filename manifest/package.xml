@@ -8,5 +8,10 @@
         <members>Account.BbTest__c</members>
         <name>CustomField</name>
     </types>
+    <types>
+        <members>GsPipeCtrl</members>
+        <members>GsPipeNoNs</members>
+        <name>Flow</name>
+    </types>
     <version>62.0</version>
 </Package>
