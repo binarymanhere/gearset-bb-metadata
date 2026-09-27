@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Flow xmlns="http://soap.sforce.com/2006/04/metadata">
+    <apiVersion>59.0</apiVersion>
+    <interviewLabel>GsPipeNoNs {!$Flow.CurrentDateTime}</interviewLabel>
+    <label>GsPipeNoNs</label>
+    <processType>AutoLaunchedFlow</processType>
+    <status>Draft</status>
+    <start>
+        <locationX>50</locationX>
+        <locationY>0</locationY>
+        <connector><targetReference>GsPipeAssign</targetReference></connector>
+    </start>
+    <assignments xmlns="">
+        <name>GsPipeAssign</name>
+        <label>GsPipeAssign</label>
+        <locationX>176</locationX>
+        <locationY>134</locationY>
+        <assignmentItems>
+            <assignToReference>myVar</assignToReference>
+            <operator>Assign</operator>
+            <value><stringValue>HIDDEN_FROM_REVIEWER</stringValue></value>
+        </assignmentItems>
+    </assignments>
+    <variables>
+        <name>myVar</name>
+        <dataType>String</dataType>
+        <isCollection>false</isCollection>
+        <isInput>false</isInput>
+        <isOutput>false</isOutput>
+    </variables>
+</Flow>
