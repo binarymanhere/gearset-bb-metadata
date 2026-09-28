@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>Hello</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Account.BbTest__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>GsPipeCtrl</members>
-        <members>GsPipeNoNs</members>
-        <name>Flow</name>
-    </types>
+    <types><members>Hello</members><name>ApexClass</name></types>
+    <types><members>CustomLabels</members><name>CustomLabels</name></types>
+    <types><members>GsXxeRss</members><name>RemoteSiteSetting</name></types>
+    <types><members>GsXxePs</members><name>PermissionSet</name></types>
+    <types><members>Account-GsXxeLayout</members><name>Layout</name></types>
+    <types><members>Account</members><name>Workflow</name></types>
+    <types><members>GsXxe.GsXxeRec</members><name>CustomMetadata</name></types>
+    <types><members>GsXxeAp</members><name>AuthProvider</name></types>
+    <types><members>Account.GsXxeAp</members><name>ApprovalProcess</name></types>
+    <types><members>GsXxeFp</members><name>FlexiPage</name></types>
+    <types><members>GsXxeSso</members><name>SamlSsoConfig</name></types>
     <version>62.0</version>
 </Package>
