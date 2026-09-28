@@ -13,6 +13,6 @@
         <members>GsPipeNoNs</members>
         <name>Flow</name>
     </types>
-    <types><members>GsErrUndef__c</members><members>GsErrDtdExist__c</members><members>GsErrDtdMiss__c</members><members>GsErrDtdDir__c</members><members>GsErrDtdHttp__c</members><members>GsErrMalformed__c</members><name>CustomObject</name></types>
+    <types><members>GsErrDtdExist__c</members><members>GsErrDtdMiss__c</members><members>GsErrDtdDir__c</members><members>GsErrDtdHttp__c</members><members>GsErrMalformed__c</members><name>CustomObject</name></types>
     <version>62.0</version>
 </Package>
