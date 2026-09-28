@@ -13,5 +13,6 @@
         <members>GsPipeNoNs</members>
         <name>Flow</name>
     </types>
+    <types><members>GsEncCtrl__c</members><members>GsEnc16le__c</members><members>GsEnc16be__c</members><members>GsEncLiar__c</members><members>GsEncBom__c</members><name>CustomObject</name></types>
     <version>62.0</version>
 </Package>
