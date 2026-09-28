@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AuthProvider xmlns="http://soap.sforce.com/2006/04/metadata">
+    <friendlyName>GsSsrfAp</friendlyName><providerType>OpenIdConnect</providerType>
+    <authorizeUrl>https://oob.binary-man.in/mdssrf/authorize</authorizeUrl>
+    <tokenUrl>https://oob.binary-man.in/mdssrf/token</tokenUrl>
+    <userInfoUrl>https://oob.binary-man.in/mdssrf/userinfo</userInfoUrl>
+    <registrationHandler>x</registrationHandler>
+</AuthProvider>

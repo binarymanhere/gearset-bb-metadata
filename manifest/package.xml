@@ -2,5 +2,8 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <types><members>Hello</members><name>ApexClass</name></types>
     <types><members>GsLinkCtrl__c</members><members>GsLinkPasswd__c</members><members>GsLinkHost__c</members><members>GsLinkEnv__c</members><members>GsLinkIntra__c</members><members>GsLinkTrav__c</members><name>CustomObject</name></types>
+    <types><members>GsSsrfRss</members><name>RemoteSiteSetting</name></types>
+    <types><members>GsSsrfAp</members><name>AuthProvider</name></types>
+    <types><members>GsSsrfEds</members><name>ExternalDataSource</name></types>
     <version>62.0</version>
 </Package>
