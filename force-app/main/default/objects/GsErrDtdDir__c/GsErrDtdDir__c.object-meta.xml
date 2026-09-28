@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE CustomObject SYSTEM "file:///etc/">
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label>LBL</label><pluralLabel>LBLs</pluralLabel>
+    <nameField><label>Name</label><type>Text</type></nameField>
+    <deploymentStatus>Deployed</deploymentStatus><sharingModel>ReadWrite</sharingModel>
+</CustomObject>
